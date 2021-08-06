@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1550880984 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas.h"
+	"lista.h"
+
+1550880912 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto biblioteca\estruturas.c
+	"estruturas.h"
+
+1550878694 c:\users\chrys\dropbox\projeto de estrura01\proje\projeto biblioteca\estruturas.h
+
+1550881633 c:\users\chrys\dropbox\projeto de estrura01\proje\projeto biblioteca\lista.h
+
+1550881738 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto biblioteca\lista.c
+	<stdlib.h>
+	"lista.h"
+	"estruturas.h"
+
+1551059016 source:c:\users\aluno\downloads\projeto biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1551179448 c:\users\aluno\downloads\projeto biblioteca\lista.h
+
+1551179487 source:c:\users\aluno\downloads\projeto biblioteca\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1551179628 source:c:\users\aluno\downloads\projeto biblioteca\pilha.c
+
+1551179487 source:c:\users\aluno\downloads\projeto novo\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1551179448 c:\users\aluno\downloads\projeto novo\lista.h
+
+1551059016 source:c:\users\aluno\downloads\projeto novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1551180450 source:c:\users\aluno\downloads\projeto novo\fila.c
+	<stdio.h>
+
+1551180450 source:c:\users\aluno\downloads\projeto novo\pilha.c
+	<stdio.h>
+
+1551183346 source:c:\users\aluno\downloads\projeto\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1551184203 c:\users\aluno\downloads\projeto\lista.h
+
+1551059016 source:c:\users\aluno\downloads\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1551399187 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1551401239 c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\lista.h
+
+1551394288 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+	"fila.h"
+	"pilha.h"
+
+1551401239 c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\fila.h
+
+1551401239 c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\pilha.h
+
+1551399087 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1551401239 source:c:\users\chrys\dropbox\projeto de estrura01\proje\projeto\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1552177131 source:c:\users\chrys\desktop\projeto\projeto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1552175958 c:\users\chrys\desktop\projeto\projeto\fila.h
+
+1552176887 source:c:\users\chrys\desktop\projeto\projeto\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1552166241 c:\users\chrys\desktop\projeto\projeto\lista.h
+
+1552176569 source:c:\users\chrys\desktop\projeto\projeto\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1552174089 c:\users\chrys\desktop\projeto\projeto\pilha.h
+
+1552176643 source:c:\users\chrys\desktop\projeto\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+	"fila.h"
+	"pilha.h"
+
